@@ -1,3 +1,38 @@
+
+# SPACEINVADERS
+
+## ➔DESCRIPCIÓN BREVE
+Crear un juego al estilo del clásico Space Invaders, un juego en el que el jugador es una nave espacial y debe de elimianr a sus oponentes los  invasores para asi ir ganando puntaje, el jugador deberá evitar que los enemigos lleguen a la parte inferior de la pantalla disparandoles y eliminandolos con su nave. 
+
+TEXT:
+-
+-
+-
+-
+-
+-
+
+
+## ➔Planificación y administración del proyecto
+Link a nuestro proyecto en jira [SPACE INVADERS- JIRA](https://algoritms-and-data-structures-project1.atlassian.net/jira/your-work).
+
+
+
+
+
+
+
+
+
+## ➔Diseño
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/A-HiDALGO/PROYECTO-1----CRAZY-ROAD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
