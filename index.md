@@ -1,4 +1,3 @@
-
 # SPACE INVADERS
 
 ## ➔DESCRIPCIÓN BREVE
@@ -39,7 +38,7 @@ cualquier problema que no se ha podido solucionar en el trabajo.
 ## ➔Diseño
 En la siguiente imagen se muestra el **diagrama de clases** que realizamos al inicio antes de iniciar con la codificación este para tener una idea del orden y la distribución de cada clase y sus subclases
 
-Pegar imagen acá
+![Copy of SpaceInvaders](https://user-images.githubusercontent.com/62964521/114783695-57660d00-9d37-11eb-9d48-63d5ed774e33.png)
 
 
 
