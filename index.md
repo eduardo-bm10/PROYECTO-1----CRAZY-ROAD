@@ -38,15 +38,16 @@ cualquier problema que no se ha podido solucionar en el trabajo.
 ## ➔Diseño
 En la siguiente imagen se muestra el **diagrama de clases** que realizamos al inicio antes de iniciar con la codificación este para tener una idea del orden y la distribución de cada clase y sus subclases
 
-![Copy of SpaceInvaders](https://user-images.githubusercontent.com/62964521/114783695-57660d00-9d37-11eb-9d48-63d5ed774e33.png)
+![Diagrama de Clases](https://user-images.githubusercontent.com/62964521/114784906-1a9b1580-9d39-11eb-894b-e2c29bc9ba18.png)
 
 
 
 
 
 
-## Este proyecto fue creado por:
-◆Eduardo                                                                                                         
+
+## Editores:
+◆Eduardo Bolivar                                                                                                        
 ◆Melissa Oviedo                                                                                                 
 ◆Javier Tenorio                                                                                                 
 ◆Gabriel                                                                                                         
