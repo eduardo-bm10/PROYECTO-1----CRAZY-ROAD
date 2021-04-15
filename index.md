@@ -47,9 +47,9 @@ En la siguiente imagen se muestra el **diagrama de clases** que realizamos al in
 
 ```markdown
 ## Editores:
-◆Eduardo Bolivar                                                                                                        
-◆Melissa Oviedo                                                                                                 
-◆Javier Tenorio                                                                                                 
-◆Gabriel                                                                                                         
-◆Alessandro Hidalgo                                                                         
+◆Eduardo Bolivar
+◆Melissa Oviedo 
+◆Javier Tenorio
+◆Gabriel 
+◆Alessandro Hidalgo
 ```
