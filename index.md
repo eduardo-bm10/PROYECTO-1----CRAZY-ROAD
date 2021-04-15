@@ -38,32 +38,18 @@ cualquier problema que no se ha podido solucionar en el trabajo.
 ## ➔Diseño
 En la siguiente imagen se muestra el **diagrama de clases** que realizamos al inicio antes de iniciar con la codificación este para tener una idea del orden y la distribución de cada clase y sus subclases
 
-![Diagrama de Clases](https://user-images.githubusercontent.com/62964521/114784906-1a9b1580-9d39-11eb-894b-e2c29bc9ba18.png)
+![Diagrama de Clases 1](https://user-images.githubusercontent.com/62964521/114803845-77a8c280-9d5d-11eb-95e1-9370f15b3fa3.png)
 
 
 
 
 
 
-
+```markdown
 ## Editores:
 ◆Eduardo Bolivar                                                                                                        
 ◆Melissa Oviedo                                                                                                 
 ◆Javier Tenorio                                                                                                 
 ◆Gabriel                                                                                                         
 ◆Alessandro Hidalgo                                                                         
-
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
-
-Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-HiDALGO/PROYECTO-1----CRAZY-ROAD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ```
-
