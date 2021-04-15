@@ -79,6 +79,6 @@ En la siguiente imagen se muestra el **diagrama de clases** que realizamos al in
 ◆Eduardo Bolivar
 ◆Melissa Oviedo 
 ◆Javier Tenorio
-◆Gabriel 
+◆Kevin Lobo 
 ◆Alessandro Hidalgo
 ```
