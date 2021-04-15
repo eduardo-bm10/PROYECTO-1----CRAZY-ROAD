@@ -25,12 +25,22 @@ Link a nuestro proyecto en jira [SPACE INVADERS- JIRA](https://algoritms-and-dat
 ◆ Plan de iteraciones que agrupen cada bloque de historias de usuario de forma
 que se vea un desarrollo incremental
 
-◆ Descomposición de cada user story en tareas.
+
+#Historias de Usuario:
+s
+s
+s
+s
+
 
 ◆ Asignación de tareas e historias entre los miembros del equipo
 
-◆ Problemas encontrados en forma de bugs en Jira: En esta sección se detalla
-cualquier problema que no se ha podido solucionar en el trabajo.
+
+#Problemas o bugs encontrados:
+s
+s
+s
+s
 
 
 
