@@ -28,25 +28,50 @@ que se vea un desarrollo incremental
 
 ### Historias de Usuario:
 ```markdown
-◆Como Desarrollador: Quiero crear una pantalla en la que puedo colocar los demás componentes del juego.
+◆ Como Desarrollador: Quiero crear una pantalla en la que puedo colocar los demás componentes del juego.
 ```
 ```markdown
-◆Como Dessarrollador: quiero crear al personaje y que este se vea en la pantalla
+◆ Como Dessarrollador: quiero crear al personaje y que este se vea en la pantalla
 ```
 ```markdown
-◆Como Desarrollador: quiero implementar el movimiento del personaje y delimitar un limite de altura en el que este no pueda subir más.
+◆ Como Desarrollador: quiero implementar el movimiento del personaje y delimitar un limite de altura en el que este
+no pueda subir más.
 ```
+```markdown
+◆ Como Usuario: quiero disparar a los enemigos con click izquierdo.
+```
+```markdown
+◆ Como Desarrollador: quiero crear la hilera de enemigos y que esta se despliegue en la pantalla.
+```
+```markdown
+◆ Como Desarrollador: quiero lograr que los enemigos se muevan en dirección vertical y horizontal.
+```
+```markdown
+◆ Como Usuario: quiero ver el puntaje que llevo actualmente en pantalla.
+```
+```markdown
+◆ Como Usuario: quiero poder ver a que clase de enemigos me enfrento.
+```
+
 
 
 ◆ Asignación de tareas e historias entre los miembros del equipo
 
 
 ### Problemas o bugs encontrados:
-s
-s
-s
-s
-
+```markdown
+◆ 
+```
+```markdown
+◆ Se quiere corregir el bug del movimiento del personaje.
+```
+```markdown
+◆ Se quiere corregir el bug que no nos permite que hayan más de un elemento en pantalla.
+```
+```markdown
+◆ Se quiere corregir el error a la hora de disparar, hay que minimizar y abrir nuevamente la interfaz 
+para que se muestre en pantalla la acción de disparo.
+```
 
 
 
