@@ -27,10 +27,15 @@ que se vea un desarrollo incremental
 
 
 ### Historias de Usuario:
-s
-s
-s
-s
+```markdown
+◆Como Desarrollador: Quiero crear una pantalla en la que puedo colocar los demás componentes del juego.
+```
+```markdown
+◆Como Dessarrollador: quiero crear al personaje y que este se vea en la pantalla
+```
+```markdown
+◆Como Desarrollador: quiero implementar el movimiento del personaje y delimitar un limite de altura en el que este no pueda subir más.
+```
 
 
 ◆ Asignación de tareas e historias entre los miembros del equipo
