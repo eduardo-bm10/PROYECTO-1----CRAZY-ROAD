@@ -26,7 +26,7 @@ Link a nuestro proyecto en jira [SPACE INVADERS- JIRA](https://algoritms-and-dat
 que se vea un desarrollo incremental
 
 
-#Historias de Usuario:
+# Historias de Usuario:
 s
 s
 s
@@ -36,7 +36,7 @@ s
 ◆ Asignación de tareas e historias entre los miembros del equipo
 
 
-#Problemas o bugs encontrados:
+# Problemas o bugs encontrados:
 s
 s
 s
