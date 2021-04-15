@@ -23,7 +23,7 @@ disparar haciendo click en el boton izquierdo del mouse.
 Link a nuestro proyecto en jira [SPACE INVADERS- JIRA](https://algoritms-and-data-structures-project1.atlassian.net/jira/your-work), aquí se pueden ver todas las historias de usuario de nuestro equipo de trabajo.
 
 ◆ Plan de iteraciones que agrupen cada bloque de historias de usuario de forma
-que se vea un desarrollo incremental
+  que se vea un desarrollo incremental
 
 
 ### Historias de Usuario:
@@ -33,7 +33,7 @@ que se vea un desarrollo incremental
 ◆ Como Dessarrollador: quiero crear al personaje y que este se vea en la pantalla.
 
 ◆ Como Desarrollador: quiero implementar el movimiento del personaje y delimitar un limite de altura
-en el que esteno pueda subir más.
+  en el que esteno pueda subir más.
 
 ◆ Como Usuario: quiero disparar a los enemigos con click izquierdo.
 
@@ -60,7 +60,7 @@ en el que esteno pueda subir más.
 ◆ Se quiere corregir el bug que no nos permite que hayan más de un elemento en pantalla.
 
 ◆ Se quiere corregir el error a la hora de disparar, hay que minimizar y abrir nuevamente la interfaz 
-para que se muestre en pantalla la acción de disparo.
+  para que se muestre en pantalla la acción de disparo.
 ```
 
 
